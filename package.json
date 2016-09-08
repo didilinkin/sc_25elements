@@ -1,0 +1,24 @@
+{
+  "name": "sc_25elements",
+  "version": "1.0.0",
+  "description": "上朝科技_25elements",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sc_25elements"
+  },
+  "author": "yanxiaodi 929213769@qq.com",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-util": "^3.0.7",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}

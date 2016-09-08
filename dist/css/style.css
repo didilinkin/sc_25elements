@@ -1,0 +1,56 @@
+.orange-red {
+  color: #FF2725; }
+
+.gray {
+  color: #878787; }
+
+.title--1 {
+  font-size: 3rem; }
+
+.title--2 {
+  font-size: 1.5rem; }
+
+.rectangle {
+  overflow: hidden;
+  width: 800px;
+  height: 860px;
+  padding: 3rem;
+  font-family: Microsoft YaHei;
+  background-color: #FFF; }
+  .rectangle img {
+    width: 100%;
+    height: 540px;
+    object-fit: contain;
+    vertical-align: bottom; }
+  .rectangle .rectangle__left {
+    float: left;
+    width: auto;
+    height: 290px;
+    padding: 30px 20px; }
+  .rectangle .rectangle__left__content {
+    margin-top: 13px; }
+    .rectangle .rectangle__left__content span {
+      font-size: 1rem; }
+  .rectangle .rectangle__right {
+    float: right;
+    width: 202px;
+    height: 291px;
+    padding: 20px 29px 0;
+    background-color: #e7e7e7; }
+  .rectangle table td {
+    width: 144px;
+    padding-bottom: 21px; }
+    .rectangle table td .content--text {
+      margin-left: 12px; }
+  .rectangle form input {
+    width: 169.6px;
+    height: 20px;
+    padding: 10px 15.2px;
+    margin-bottom: 20px;
+    border: 1px #FFF solid; }
+  .rectangle form input.form--btn {
+    width: 100%;
+    height: auto;
+    padding: 10px 72px;
+    color: #FFF;
+    background-color: #333; }
